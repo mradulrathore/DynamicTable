@@ -1,0 +1,39 @@
+.add-button{
+  background-color: #ADD8E6;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.button1{
+  width:100%;
+  height:100%;
+  border: 0;
+  background-size: 100%;
+  background: url('https://image.flaticon.com/icons/svg/447/447003.svg') no-repeat;
+  background-position: center;
+}
+
+.button2{
+  width:100%;
+  height:100%;
+  border:0;
+  background-size: 100%;
+  background: url('https://image.flaticon.com/icons/svg/565/565313.svg') no-repeat;
+  background-position: center;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td{
+  border:solid 1px solid black;
+  text-align: center;
+}
